@@ -1,0 +1,13 @@
+﻿  MAIN.cpp
+C:\Users\User\source\repos\colorControl\Slider.cpp(89,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\colorControl\Slider.cpp(90,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\colorControl\Slider.cpp(91,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\colorControl\Slider.cpp(92,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\colorControl\Slider.cpp(262,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\colorControl\Slider.cpp(263,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\colorControl\Slider.cpp(264,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\colorControl\Slider.cpp(265,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\colorControl\MAIN.cpp(118,53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\colorControl\MAIN.cpp(118,42): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+LINK : warning LNK4098: сшсышюЄхър яю єьюыўрэш■ "MSVCRT" ъюэЇышъЄєхЄ ё шёяюы№чютрэшхь фЁєушї сшсышюЄхъ; шёяюы№чєщЄх /NODEFAULTLIB:library
+  colorControl.vcxproj -> C:\Users\User\source\repos\colorControl\Debug\colorControl.exe
